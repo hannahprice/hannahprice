@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**hannahprice/hannahprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Member of the organising team for DDD South West 
+Working prodominantly with dotnet
 
-Here are some ideas to get you started:
+Current projects
+- Spending tracker site
+- Platform JS game collaboration with Liam
+- Mentoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Technologies I've worked with
+
+Currently learning
+
+Currently studying
+AZ-900
+
+Learning queue
+
+Reading queue
+
+Certifications I've earned (later)
 -->
