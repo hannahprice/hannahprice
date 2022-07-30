@@ -14,8 +14,8 @@
 - Exploring Blazor wasm
 
 ## 🌟 Current hobby projects
-- Personal spending tracker app
-- JS platformer game (collab with Liam)
+- <a href="https://github.com/hannahprice/SpendingTracker" target="_blank">Personal spending tracker app</a>
+- <a href="https://github.com/Liamarii/SideScrollerGame" target="_blank">JS platformer game (collab with Liam)</a>
 
 ## ✨ Skills
 <p align="left">
