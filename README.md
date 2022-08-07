@@ -2,7 +2,7 @@
 
 ## 👩🏼 About me
 - Member of the organising team for <a href="https://dddsouthwest.com/" target="_blank" rel="noreferrer">DDD South West</a>
-- Working predominantly with dotnet
+- Working predominantly with dotnet, but interested in everything. Huge list of things I want to explore and learn!
 - Based in the South West, UK
 - Big lover of all kinds of games
 - Always keen to help and looking to get involved in more things!
