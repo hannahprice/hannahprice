@@ -16,7 +16,7 @@
 
 ## 🌟 Current hobby projects
 - <a href="https://github.com/hannahprice/SpendingTracker" target="_blank">Personal spending tracker app</a>
-- <a href="https://github.com/Liamarii/SideScrollerGame" target="_blank">JS platformer game (collab with Liam)</a>
+- <a href="https://github.com/Liamarii/SideScrollerGame" target="_blank">JS platformer game (collab with Liam - currently spiking)</a>
 
 ## ✨ Skills
 <p align="left">
