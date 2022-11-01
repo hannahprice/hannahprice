@@ -11,11 +11,12 @@
 <p align="left"> <a href="https://www.codepen.io/handalf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/handalf#6782" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hannah-price-a09728b1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/han_10001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## 🌱 Currently learning
-- Studying for the Microsoft AZ-900 exam
 - Exploring Blazor wasm
+- Adding Docker to anything that needs it! 
 
-## 🌟 Current hobby projects
+## 🌟 Current side projects
 - <a href="https://github.com/hannahprice/SpendingTracker" target="_blank">Personal spending tracker app</a>
+- <a href="https://github.com/dddsw/web-poc" target="_blank">A shiny new DDDSW website!</a>
 
 ## ✨ Skills
 <p align="left">
@@ -42,15 +43,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahprice&show_icons=true&locale=en&layout=compact" alt="hannahprice" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hannahprice&show_icons=true&locale=en" alt="hannahprice" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hannahprice&" alt="hannahprice" /></p>
-
-
-<!--
-Current projects
-- Mentoring
-
-Learning queue
-
-Reading queue
-
-Certifications I've earned (later)
--->
