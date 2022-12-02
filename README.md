@@ -11,8 +11,7 @@
 <p align="left"> <a href="https://www.codepen.io/handalf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/handalf#6782" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hannah-price-a09728b1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/han_10001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## 🌱 Currently learning
-- Exploring Blazor wasm
-- Adding Docker to anything that needs it! 
+- GoLang
 
 ## 🌟 Current side projects
 - <a href="https://github.com/hannahprice/SpendingTracker" target="_blank">Personal spending tracker app</a>
